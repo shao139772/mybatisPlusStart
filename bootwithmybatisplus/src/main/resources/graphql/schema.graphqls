@@ -1,0 +1,6 @@
+type Author {
+    id: Long!
+    createTime: String
+    firstName: String
+    lastName: String
+}
