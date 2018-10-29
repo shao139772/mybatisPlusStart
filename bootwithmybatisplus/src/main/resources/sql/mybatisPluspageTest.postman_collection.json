@@ -1,0 +1,47 @@
+{
+	"id": "2ff20e4d-8801-417a-9cce-e37545594424",
+	"name": "mybatisPluspageTest",
+	"description": null,
+	"auth": null,
+	"events": null,
+	"variables": [],
+	"order": [
+		"04411531-2d7a-4a31-a5f4-394e116d5be7"
+	],
+	"folders_order": [],
+	"folders": [],
+	"requests": [
+		{
+			"id": "04411531-2d7a-4a31-a5f4-394e116d5be7",
+			"name": "http://127.0.0.1:8000/sys/sysUser/findPage/1/5/3",
+			"url": "http://127.0.0.1:8000/sys/sysUser/findPage/1/5/3",
+			"description": "mybatisPluspageTest",
+			"data": [
+				{
+					"key": "token",
+					"value": "402881ec63b0abc70163b0abc7e90000",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				},
+				{
+					"key": "",
+					"value": "8a80cb8163afc2660163b0a5714c000a",
+					"description": "",
+					"type": "text",
+					"enabled": true
+				}
+			],
+			"dataMode": "params",
+			"headerData": [],
+			"method": "POST",
+			"pathVariableData": [],
+			"queryParams": [],
+			"auth": null,
+			"events": [],
+			"folder": null,
+			"headers": "",
+			"pathVariables": {}
+		}
+	]
+}

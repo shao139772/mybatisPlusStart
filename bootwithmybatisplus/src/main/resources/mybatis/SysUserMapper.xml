@@ -8,7 +8,7 @@
 
     <select id="selectPageVo" resultType="com.miaomiao.bootwithmybatisplus.sys.entity.SysUser">
     SELECT * FROM sys_user WHERE username=#{username}
-</select>
+    </select>
 
 
 
